@@ -8,12 +8,9 @@ body{
     font-size: calc(35px + 0.5vw);
 }
 
-p{
-    font-family: 'Open Sans', ;
-}
-
 #footer{
-    font-size: calc(3px + 0.5vw);
+    font-size: calc(5px + 0.5vw);
+    padding: 10px;
 }
 
 a:link {
